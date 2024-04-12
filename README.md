@@ -4,6 +4,9 @@
 
 #### By *mustafe ali abdi*
 
+
+## Live Demo
+[Live Demo Link](https://project1-henna-beta.vercel.app/)
 ## Description
 It's a webpage that shows different types of triangles and what they look like.
 
